@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 15 11:41:55 2021
 
-@author: sohom
+@author: mono_2002
 """
 
 #Tic-Tac-Toe Game
