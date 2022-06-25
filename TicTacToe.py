@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 15 11:41:55 2021
 
-@author: lenovo
+@author: sohom
 """
 
 #Tic-Tac-Toe Game
